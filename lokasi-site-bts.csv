@@ -1,0 +1,353 @@
+_id,id,longitude,latitude,alamat,desa,kecamatan,pemilik site,tinggi,luas tanah,tipe menara,tipe site,lokasi
+1,250266,110.31496,-7.83801,Ngentak rt. 05,Bangunjiwo,Kasihan ,PT. Akses Prima Indonesia,42,150,4 KAKI,Greenfield,pemukiman
+2,250096,110.3667,-7.836,Jl. Ring Road Selatan,Bangunharjo,Sewon,"PT. Bali Towerindo Sentra,Tbk.",18,2,Monopole,Greenfield,pemukiman
+3,250094,110.33716,-7.80744,Jl. Sonopakis Kidul Rt. 02,Ngestiharjo,Kasihan,"PT. Bali Towerindo Sentra,Tbk.",18,2,Monopole,Greenfield,pemukiman
+4,250271,110.420301,-7.820162,Jl. Wonosari  Dukuh Mantup Rt. 12,Baturetno,Banguntapan,"PT. Bali Towerindo Sentra,Tbk.",26,4,POLE,Greenfield,pemukiman
+5,250274,110.280468,-7.802612,Jl. Monumen Brimob Rt. 009,Argomulyo,Sedayu ,"PT. Bali Towerindo Sentra,Tbk.",21,1,POLE,Greenfield,pemukiman
+6,250275,110.26966,-7.81218,Jl. Wates Dusun Karanglo Rt. 06,Argomulyo,Sedayu ,"PT. Bali Towerindo Sentra,Tbk.",26,1,POLE,Greenfield,pemukiman
+7,250097,110.40796,-7.8292,Jl. Ring Road Timur,Banguntapan,Banguntapan,"PT. Bali Towerindo Sentra,Tbk.",21,2,Monopole,Greenfield,pemukiman
+8,250098,110.4102,-7.81567,Jl. Ring Road Selatan Dusun Jaranan,Banguntapan,Banguntapan,"PT. Bali Towerindo Sentra,Tbk.",21,2,Monopole,Greenfield,pemukiman
+9,250099,110.408861,-7.807256,Jl. Ring Road Timur Jomblangan,Banguntapan,Banguntapan,"PT. Bali Towerindo Sentra,Tbk.",21,2,Monopole,Greenfield,pemukiman
+10,250105,110.33842,-7.89331,Jl. Wahidin Sudiro Husodo Dusun Bantul Timur,Trirenggo,Bantul,"PT. Bali Towerindo Sentra,Tbk.",20,2,Monopole,Greenfield,pemukiman
+11,250106,110.33773,-7.8955,Jl. RA. Kartini RT. 03 Dusun Bantul Timur,Trirenggo,Bantul,"PT. Bali Towerindo Sentra,Tbk.",20,2,Monopole,Greenfield,pemukiman
+12,250109,110.3559,-7.84928,Jl. KH. Ali Maksum Dusun Glondong RT. 05,Panggungharjo,Sewon,"PT. Bali Towerindo Sentra,Tbk.",20,2,Monopole,Greenfield,pemukiman
+13,250110,110.37357,-7.82762,Jl. Imogiri KM. 4 Dusun Jotawang RT. 01,Bangunharjo,Sewon,"PT. Bali Towerindo Sentra,Tbk.",20,2,Monopole,Greenfield,pemukiman
+14,250113,110.39854,-7.79175,Jl. Sorowajan Baru,Banguntapan,Banguntapan,"PT. Bali Towerindo Sentra,Tbk.",20,2,Monopole,Greenfield,pemukiman
+15,250117,110.34891,-7.81562,Jl. Bugisan Dusun Jomegatan RT. 13,Ngestiharjo,Kasihan,"PT. Bali Towerindo Sentra,Tbk.",20,2,Monopole,Greenfield,pemukiman
+16,250125,110.40932,-7.80363,Jl. Ring Road Selatan,Banguntapan,Banguntapan,"PT. Bali Towerindo Sentra,Tbk.",20,2,Monopole,Greenfield,pemukiman
+17,250127,110.336719,-7.82567,Jl. Ring Road Selatan  Dusun Menayu Kulon RT. 07,Tirtonirmolo,Kasihan,"PT. Bali Towerindo Sentra,Tbk.",21,2,Monopole,Greenfield,pemukiman
+18,250128,110.4097,-7.824776,Jl. Ring Road Selatan Dusun Modalan RT. 03,Banguntapan,Banguntapan,"PT. Bali Towerindo Sentra,Tbk.",21,2,Monopole,Greenfield,pemukiman
+19,250132,110.3569,-7.84075,Jl. KH. Ali Maksum,Panggungharjo,Sewon,"PT. Bali Towerindo Sentra,Tbk.",20,2,Monopole,Greenfield,pemukiman
+20,250134,110.37395,-7.83206,Jl. Imogiri Barat,Bangunharjo,Sewon,"PT. Bali Towerindo Sentra,Tbk.",20,2,Monopole,Greenfield,pemukiman
+21,250136,110.4053,-7.80315,Jl. Gatot Kaca Rt. 10 Rw. 34 Juru Gentong,Banguntapan,Banguntapan,"PT. Bali Towerindo Sentra,Tbk.",21,2,Monopole,Greenfield,pemukiman
+22,250146,110.34525,-7.81679,Jl. Jomegatan Dusun Jomegatan RT. 7,Ngestiharjo,Kasihan,"PT. Bali Towerindo Sentra,Tbk.",20,2,Monopole,Greenfield,pemukiman
+23,250219,110.408559,-7.811362,Jl. Ringroad Timur Dusun Tegaltandan RT. 17,Banguntapan,Banguntapan,"PT. Bali Towerindo Sentra,Tbk.",21,2,Monopole,Greenfield,pemukiman
+24,250270,110.405032,-7.811653,Jl. Rajawali Padukuhan Jaranan RT. 01,Banguntapan,Banguntapan,"PT. Bali Towerindo Sentra,Tbk.",26,2,POLE,Greenfield,pemukiman
+25,150167,110.407215,-7.7926643,Akakom Janti,Banguntapan,Banguntapan,PT. CENTRATAMA MENARA INDONESIA,6,10,POLE,Rooftop,pemukiman
+26,250255,110.33526,-7.89381,Jl. Marsda Adi Sucipto Dukuh Bejen Rt. 05,Bantul,Bantul,PT. CENTRATAMA MENARA INDONESIA,32,70,3 KAKI,Greenfield,pemukiman
+27,250204,110.42085,-7.83062,Dk. Salakan Rt. 02,Potorono,Banguntapan,PT. Dayamitra Telekomunikasi,42,150,4 KAKI,Greenfield,pemukiman
+28,150017,110.3747591,-7.8521265,Kaluran RT 01 Bakung,Bangunharjo,Sewon ,PT. Dayamitra Telekomunikasi,52,52,4 KAKI,Greenfield,pemukiman
+29,150043,110.4128298,-7.8461727,Dusun Joho Rt 01,Jambidan,Banguntapan,PT. Dayamitra Telekomunikasi,52,42,4 KAKI,Greenfield,pemukiman
+30,150056,110.3460256,-7.816524,Jomegaten Rt 07 Rw 21,Ngestiharjo,Kasihan ,PT. Dayamitra Telekomunikasi,40,42,4 KAKI,Greenfield,pemukiman
+31,150094,110.3495903,-7.8805489,Kersan/Balong,Timbulharjo,Sewon ,PT. Dayamitra Telekomunikasi,52,144,3 KAKI,Greenfield,pemukiman
+32,150100,110.3535758,-7.9058405,"Jl Parangtritis Km 12,5 Ngaglik",Patalan,Jetis ,PT. Dayamitra Telekomunikasi,52,52,4 KAKI,Greenfield,pemukiman
+33,150132,110.3117586,-7.9549356,Dusun jomblang Rt 02 Rw 25,Mulyodadi,Bambanglipuro ,PT. Dayamitra Telekomunikasi,52,50,4 KAKI,Greenfield,pemukiman
+34,150152,110.3212619,-7.8966674,Jetis Sumuran,Palbapang,Bantul,PT. Dayamitra Telekomunikasi,62,62,4 KAKI,Greenfield,pemukiman
+35,150153,110.3354272,-7.8924538,Jl Dr Wahidin Sudiro,Bantul,Bantul,PT. Dayamitra Telekomunikasi,62,146,4 KAKI,Greenfield,pemukiman
+36,150193,110.4322619,-7.8848746,Dusun Ploso,Wonolelo,Pleret ,PT. Dayamitra Telekomunikasi,52,225,4 KAKI,Greenfield,pemukiman
+37,150205,110.3561432,-7.8352176,Karang Nongko RT 08,Panggungharjo,Sewon ,PT. Dayamitra Telekomunikasi,62,42,4 KAKI,Greenfield,pemukiman
+38,150215,110.3194879,-7.8598144,Kembang Putihan,Guwosari,Pajangan ,PT. Dayamitra Telekomunikasi,72,100,4 KAKI,Greenfield,pemukiman
+39,150231,"110,35273","-7,86176","Dsn. Bangi RT. 07, Dukuh. Dadapan, Ds. Timbulharjo",Timbulharjo,Sewon ,PT. Dayamitra Telekomunikasi,42,100,4 KAKI,Greenfield,pemukiman
+40,150232,110.381362,-7.846242,Jl.Desa Bopongan Rt.03,Tamanan,Banguntapan,PT. Dayamitra Telekomunikasi,48,100,4 KAKI,Greenfield,pemukiman
+41,150250,110.27443,-7.98909,Dusun Baran Rt 072,Srigading,Sanden ,PT. Dayamitra Telekomunikasi,52,52,4 KAKI,Greenfield,pemukiman
+42,250056,110.36531,-7.92765,Serayu Dk Beran Rt 03,Canden,Jetis ,PT. Dayamitra Telekomunikasi,62,150,4 KAKI,Greenfield,pemukiman
+43,250198,110.33367,-7.81651,Dsn. Tempuran Rt. 08,Tamantirto,Kasihan ,PT. Dayamitra Telekomunikasi,36,100,POLE,Greenfield,pemukiman
+44,250239,110.37728,-7.87244,Dukuh Ngentak Rt. 01,Timbulharjo,Sewon ,PT. Dayamitra Telekomunikasi,52,100,4 KAKI,Greenfield,persawahan
+45,250243,110.333417,-7.90747,Jopaitan Serut Rt. 02,Palbapang,Bantul,PT. Dayamitra Telekomunikasi,42,150,4 KAKI,Greenfield,pemukiman
+46,250247,110.31676,-7.83741,Karangjati Rt. 006,Bangunjiwo,Kasihan ,PT. Dayamitra Telekomunikasi,30,16,POLE,Greenfield,pemukiman
+47,250277,110.41037,-7.85204,Demangan Tegal Rt. 03,Jambidan,Banguntapan,PT. Dayamitra Telekomunikasi,42,120,4 KAKI,Greenfield,persawahan
+48,250278,110.29289,-7.874313,Dusun Gupak Warak Rt. 02,Sendangsari,Pajangan ,PT. Dayamitra Telekomunikasi,42,144,POLE,Greenfield,pemukiman
+49,250280,110.38267,-7.83893,Dukuh Tamanan Wetan,Tamanan,Banguntapan,PT. Dayamitra Telekomunikasi,30,80,POLE,Greenfield,persawahan
+50,250282,110.34789,-7.7925,Soragan Dukuh 03 Rt. 02,Ngestiharjo,Kasihan ,PT. Dayamitra Telekomunikasi,30,25,POLE,Greenfield,pemukiman
+51,250283,110.414244,-7.81576,Kalangan Rt. 10,Baturetno,Banguntapan,PT. Dayamitra Telekomunikasi,30,25,POLE,Greenfield,pemukiman
+52,250305,110.3023,-7.96844,Dusun Krajan RT. 01,Trimulyo,Kretek,PT. Dayamitra Telekomunikasi,42,100,4 KAKI,Greenfield,pemukiman
+53,250307,110.32964,-7.85189,Banyon RT. 72,Pendowoharjo,Sewon ,PT. Dayamitra Telekomunikasi,42,100,3 KAKI,Greenfield,pemukiman
+54,250315,110.38471,-7.90756,Dusun Manggung RT. 03,Wukirsari,Imogiri ,PT. Dayamitra Telekomunikasi,42,100,4 KAKI,Greenfield,pemukiman
+55,250316,110.34332,-7.9795,Soka RT. 06,Seloharjo,Pundong ,PT. Dayamitra Telekomunikasi,42,100,4 KAKI,Greenfield,pemukiman
+56,250323,110.38847,-7.86105,Jati RT. 06,Wonokromo,Pleret ,PT. Dayamitra Telekomunikasi,42,100,4 KAKI,Greenfield,pemukiman
+57,250303,110.38216,-7.90941,Dusun Bendo RT. 04,Wukirsari,Imogiri ,PT. Gihon Telekomunikasi Indonesia,42,64,3 KAKI,Greenfield,pemukiman
+58,150207,110.3747366,-7.8360522,Jl. Ringroad Selatan Gg Usaha Wojo Rt 04,Bangunharjo,Sewon ,PT. Hutchison 3 Indonesia,8,8,POLE,Rooftop,pemukiman
+59,250014,110.4249,-7.8231,Potorono Rt 01,Potorono,Banguntapan,PT. Hutchison 3 Indonesia,42,42,4 KAKI,Greenfield,pemukiman
+60,250026,110.32867,-7.81925,Brajan Rt 002,Tamantirto,Kasihan ,PT. Hutchison 3 Indonesia,42,42,3 KAKI,Greenfield,pemukiman
+61,250033,110.40822,-7.79769,Kanoman Tegal Pasar Rt 10/20,Banguntapan,Banguntapan,PT. Hutchison 3 Indonesia,18,18,POLE,Rooftop,pemukiman
+62,250034,110.32485,-7.86927,Kaligawe Dk Geblag Rt 01,Bantul,Bantul,PT. Hutchison 3 Indonesia,42,42,3 KAKI,Greenfield,pemukiman
+63,250035,110.3555,-7.85152,Prancak Dukuh Dk Glondong Rt 03,Panggungharjo,Sewon ,PT. Hutchison 3 Indonesia,25,150,3 KAKI,Rooftop,pemukiman
+64,250036,110.31874,-7.88911,Jetak Rt 03,Ringinharjo,Bantul,PT. Hutchison 3 Indonesia,42,42,3 KAKI,Greenfield,pemukiman
+65,250037,110.31212,-7.92272,Kanutan Rt 03,Sumbermulyo,Bambanglipuro ,PT. Hutchison 3 Indonesia,42,42,3 KAKI,Greenfield,pemukiman
+66,250057,110.31605,-7.87759,Dukuh Rt 02,Guwosari,Pajangan ,PT. Hutchison 3 Indonesia,42,72,3 KAKI,Greenfield,pemukiman
+67,250060,110.33544,-7.87488,Melikan Lor Rt 06,Bantul,Bantul,PT. Hutchison 3 Indonesia,25,100,4 KAKI,Rooftop,pemukiman
+68,250061,110.30667,-7.843,Banaran Rt. 08 Kalirandu,Bangunjiwo,Kasihan ,PT. Hutchison 3 Indonesia,42,150,4 KAKI,Greenfield,pemukiman
+69,250244,110.33766,-7.80101,Perum Griya Alvita Sonopakis Lor Rt. 07,Ngestiharjo,Kasihan ,PT. Iforte Solusi Infotek,21,4,POLE,Greenfield,pemukiman
+70,250245,110.40988,-7.80176,Wonocatur Rt. 005 Rw. 024,Banguntapan,Banguntapan,PT. Iforte Solusi Infotek,21,4,POLE,Greenfield,pemukiman
+71,250246,110.33372,-7.81067,Sidorejo Rt. 008,Ngestiharjo,Kasihan ,PT. Iforte Solusi Infotek,21,4,POLE,Greenfield,pemukiman
+72,250251,110.40654,-7.7887,Karangbendo Rt. 05 Rw. 002,Banguntapan,Banguntapan,PT. Iforte Solusi Infotek,21,4,POLE,Greenfield,pemukiman
+73,250252,110.37034,-7.8321,Saman Rt. 009,Bangunharjo,Sewon ,PT. Iforte Solusi Infotek,21,4,POLE,Greenfield,pemukiman
+74,150001,110.3823762,-7.9192912,Jl Raya Minggiran RT 01,Imogiri,Imogiri ,PT. Indosat,70,225,4 KAKI,Greenfield,pemukiman
+75,150037,110.3936263,-7.8698167,Ketonggong,Wonokromo,Pleret ,PT. Indosat,71,225,4 KAKI,Greenfield,pemukiman
+76,150054,110.3382591,-7.8086286,Sono Pakis Kidul RT 01,Ngestiharjo,Kasihan ,PT. Indosat,40,225,4 KAKI,Greenfield,pemukiman
+77,150062,110.3245376,-7.8149716,Dusun II RT 01 / RW 03,Tamantirto,Kasihan ,PT. Indosat,42,52,4 KAKI,Greenfield,pemukiman
+78,150065,110.3524585,-7.8282114,Dongkelan Rt 04,Panggungharjo,Sewon ,PT. Indosat,55,144,4 KAKI,Greenfield,pemukiman
+79,150072,110.3266313,-7.8354464,Jagalan Rt 3 Rw 8,Tamantirto,Kasihan ,PT. Indosat,52,72,4 KAKI,Greenfield,pemukiman
+80,150082,110.2632854,-7.8131258,"Jl Raya Wates Km 11,5",Argosari,Sedayu ,PT. Indosat,55,225,4 KAKI,Greenfield,pemukiman
+81,150087,110.3450928,-7.8486647,Kaliputih RT 10,Pendowoharjo,Sewon ,PT. Indosat,55,144,4 KAKI,Greenfield,pemukiman
+82,150097,110.3533674,-7.8955751,Manding RT 01,Sabdodadi,Bantul,PT. Indosat,55,225,4 KAKI,Greenfield,pemukiman
+83,150114,110.2639928,-7.9344691,Daguran 17,Trimurti,Srandakan ,PT. Indosat,70,225,4 KAKI,Greenfield,pemukiman
+84,150122,110.2955842,-8.0093174,Depok RT 01,Parangtritis,Kretek ,PT. Indosat,52,225,4 KAKI,Greenfield,pemukiman
+85,150128,110.3158652,-7.9771147,Tegal Sari,Donotirto,Kretek ,PT. Indosat,55,180,4 KAKI,Greenfield,pemukiman
+86,150141,110.2908261,-7.8962021,Benyo RT 01,Sendangsari,Pajangan ,PT. Indosat,52,52,4 KAKI,Greenfield,pemukiman
+87,150147,110.3202728,-7.9258747,Kali Godang Gedongan Rt 06,Sumbermulyo,Bambanglipuro ,PT. Indosat,62,225,4 KAKI,Greenfield,pemukiman
+88,150149,110.3126553,-7.9073795,Dusun Karang Asem RT 01 / RW 07,Gilangharjo,Pandak ,PT. Indosat,70,225,4 KAKI,Greenfield,pemukiman
+89,150154,110.3385909,-7.8967476,Jl Kemuning,Trirenggo,Bantul,PT. Indosat,70,225,4 KAKI,Greenfield,pemukiman
+90,150163,110.3981588,-7.7949702,"jl. Arimbi, Sokowetan Rt 04",Banguntapan,Banguntapan,PT. Indosat,12,100,3 KAKI,Greenfield,pemukiman
+91,150166,110.4072296,-7.7929411,Akakom Janti,Banguntapan,Banguntapan,PT. Indosat,4.5,10,POLE,Rooftop,pemukiman
+92,150175,110.4124185,-7.8059101,Jl Sunten Rt 07 Rw 32,Banguntapan,Banguntapan,PT. Indosat,40,100,4 KAKI,Greenfield,pemukiman
+93,150182,110.417889,-7.8337959,Condro Wangsan RT 06,Potorono,Banguntapan,PT. Indosat,52,225,4 KAKI,Greenfield,pemukiman
+94,150188,110.4748173,-7.8345157,Dusun Piyungan RT 01,Srimartani,Piyungan ,PT. Indosat,52,144,4 KAKI,Greenfield,pemukiman
+95,150198,110.3377448,-7.8656824,Dusun Cepit RT 05,Pendowoharjo,Sewon ,PT. Indosat,55,225,4 KAKI,Greenfield,pemukiman
+96,150200,110.3306372,-7.8822146,jl. Kemuning Depok RT 03,Bantul,Bantul,PT. Indosat,53,144,4 KAKI,Greenfield,pemukiman
+97,150206,110.3640217,-7.8370669,Dusun Saman RT 04 / RW 01,Bangunharjo,Sewon ,PT. Indosat,52,62,4 KAKI,Greenfield,pemukiman
+98,150226,110.40291,-7.80108,Gg Gemak Ds Tegaltandan Rt 03 Rw 33,Banguntapan,Banguntapan,PT. Indosat,40,144,4 KAKI,Greenfield,pemukiman
+99,150228,110.351,-7.78069,Jl Kyai Mojo 104,Ngestiharjo,Kasihan ,PT. Indosat,50,144,4 KAKI,Greenfield,pemukiman
+100,150240,110.34936,-7.77267,STIE YKP No 21 Tambak,Ngestiharjo,Kasihan ,PT. Indosat,9,6,POLE,Greenfield,pemukiman
+101,150004,110.3803447,-7.92118,Ngancar RT 02,Karangtalun,Imogiri ,PT. Inti Bangun Sejahtera,62,62,4 KAKI,Greenfield,pemukiman
+102,150025,110.4515068,-7.8851038,Kebokuning RT 04,Terong,Dlingo ,PT. Inti Bangun Sejahtera,36,144,4 KAKI,Greenfield,pemukiman
+103,150036,110.3994806,-7.8696408,Kerto Rt 5/08,Pleret,Pleret ,PT. Inti Bangun Sejahtera,72,72,4 KAKI,Greenfield,pemukiman
+104,150076,110.2419197,-7.8127212,Tapen RT 016,Argosari,Sedayu ,PT. Inti Bangun Sejahtera,52,144,4 KAKI,Greenfield,pemukiman
+105,150077,110.2559784,-7.8163343,Dusun Semampir,Argorejo,Sedayu ,PT. Inti Bangun Sejahtera,72,52,4 KAKI,Greenfield,pemukiman
+106,150088,110.34791187,-7.8503782,Kali Putih Rt 44,Pendowoharjo,Sewon ,PT. Inti Bangun Sejahtera,72,62,4 KAKI,Greenfield,pemukiman
+107,150098,110.3655807,-7.8965804,Beji Rt 06,Sumber Agung,Jetis ,PT. Inti Bangun Sejahtera,52,52,4 KAKI,Greenfield,pemukiman
+108,150108,110.3260831,-8.0200728,Parang Kusumo,Parangtritis,Kretek ,PT. Inti Bangun Sejahtera,72,62,4 KAKI,Greenfield,pemukiman
+109,150115,110.2672959,-7.9630699,Pucanganom,Murtigading,Sanden ,PT. Inti Bangun Sejahtera,72,52,4 KAKI,Greenfield,pemukiman
+110,150131,110.3182298,-7.9722203,Jl. Parangtritis Km 21,Donotirto,Kretek ,PT. Inti Bangun Sejahtera,72,72,4 KAKI,Greenfield,pemukiman
+111,150142,110.2882905,-7.91625,Larang Rt 03,Triharjo,Pandak ,PT. Inti Bangun Sejahtera,72,72,4 KAKI,Greenfield,pemukiman
+112,150156,110.3354925,-7.8908564,Bogoran,Trirenggo,Bantul,PT. Inti Bangun Sejahtera,52,62,4 KAKI,Greenfield,pemukiman
+113,150170,110.4072252,"-7,7926947",Akakom Janti,Banguntapan,Banguntapan,PT. Inti Bangun Sejahtera,9,10,POLE,Rooftop,pemukiman
+114,150183,110.4108293,-7.8284127,Jl. Karangturi Ngipik (Tegal Cermai) Rt 08,Baturetno,Banguntapan,PT. Inti Bangun Sejahtera,52,42,4 KAKI,Greenfield,pemukiman
+115,150241,110.34592,-7.79717,Kp. Cebongan,Ngestiharjo,Kasihan ,PT. Inti Bangun Sejahtera,62,225,4 KAKI,Greenfield,pemukiman
+116,150246,110.36347,-7.87053,Dusun Cangkringmalang Rt 07,Timbulharjo,Sewon ,PT. Inti Bangun Sejahtera,42,42,4 KAKI,Greenfield,pemukiman
+117,150247,110.33244,-7.84388,Dusun Jerontabag Rt 07,Bangunjiwo,Kasihan ,PT. Inti Bangun Sejahtera,42,42,4 KAKI,Greenfield,pemukiman
+118,150248,110.32792,-7.83553,Dusun Jagan Rt 03,Bangunjiwo,Kasihan ,PT. Inti Bangun Sejahtera,42,144,4 KAKI,Greenfield,pemukiman
+119,150251,110.41277,-7.80416,Bantengan Rt 13,Banguntapan,Banguntapan,PT. Inti Bangun Sejahtera,32,32,3 KAKI,Greenfield,pemukiman
+120,150255,110.40017,-7.80036,"Dsn plumbon, rt 05/19",Banguntapan,Banguntapan,PT. Inti Bangun Sejahtera,36,331,3 KAKI,Greenfield,pemukiman
+121,250161,110.32475,-7.81608,Gatak II Rt. 01,Tamantirto,Kasihan ,PT. Inti Bangun Sejahtera,42,150,4 KAKI,Greenfield,pemukiman
+122,250203,110.40004,-7.792739,Sorowajan Baru Rt. 17,Banguntapan,Banguntapan,PT. Inti Bangun Sejahtera,36,150,4 KAKI,Greenfield,pemukiman
+123,250225,110.41001,-7.81449,Jl. Ringroad Selatan Dusun Jaranan Rt. 09,Banguntapan,Banguntapan,PT. Inti Bangun Sejahtera,36,100,3 KAKI,Greenfield,pemukiman
+124,250227,110.33569,-7.8174,Dusun Kalipakis Rt. 07,Tirtonirmolo,Kasihan ,PT. Inti Bangun Sejahtera,30,30,POLE,Rooftop,pemukiman
+125,250229,110.31604,-7.9088,"Kp. Klanen Rt. 02, Padukuhan Dagaran",Palbapang,Bantul,PT. Inti Bangun Sejahtera,36,60,4 KAKI,Greenfield,pemukiman
+126,250236,110.30479,-7.95752,Padukuhan Plembengan Rt. 08,Sidomulyo,Bambanglipuro ,PT. Inti Bangun Sejahtera,62,150,4 KAKI,Greenfield,pemukiman
+127,250237,110.28265,-7.87823,Padukuhan Beji Kulon Rt. 04,Sendangsari,Pajangan ,PT. Inti Bangun Sejahtera,72,150,4 KAKI,Greenfield,pemukiman
+128,250238,110.33286,-7.80252,"Kp. Rejodadi Rt. 005, Padukuhan Onggobayan",Ngestiharjo,Kasihan ,PT. Inti Bangun Sejahtera,12,60,POLE,Rooftop,pemukiman
+129,250242,110.37271,-7.94217,Dusun Demi/Jati Rt. 02,Sriharjo,Imogiri ,PT. Inti Bangun Sejahtera,62,150,4 KAKI,Greenfield,pemukiman
+130,250258,110.37525,-7.85396,Dusun Semail Rt. 01,Bangunharjo,Sewon ,PT. Inti Bangun Sejahtera,42,100,4 KAKI,Greenfield,pemukiman
+131,250290,110.33521,-7.82539,Padukuhan Gonjen Rt. 06,Tamantirto,Kasihan ,PT. Inti Bangun Sejahtera,36,32,POLE,Greenfield,pemukiman
+132,150026,110.4501967,-7.8850924,Kebokuning Rt 04,Terong,Dlingo ,PT. Komet Infra Nusantara,45,36,3 KAKI,Greenfield,pemukiman
+133,150074,110.2874563,-7.8477428,Jejeran Wetan,Triwidadi,Pajangan ,PT. Komet Infra Nusantara,55,144,3 KAKI,Greenfield,pemukiman
+134,150192,110.450121,-7.8414635,Cikal Rt 01,Srimulyo,Piyungan ,PT. Komet Infra Nusantara,52,144,3 KAKI,Greenfield,pemukiman
+135,150202,110.3087409,-7.8806709,Iroyudan RT 01 / RW 06,Guwosari,Pajangan ,PT. Komet Infra Nusantara,55,144,3 KAKI,Greenfield,pemukiman
+136,150229,110.349444,-7.77261,Pedukuhan I Tambak,Ngestiharjo,Kasihan ,PT. Komet Infra Nusantara,52,50,3 KAKI,Greenfield,pemukiman
+137,150230,110.299166,-7.98563,"Dukuh Mulehan II RT 06/ RW-,",Tirtosari,Kretek ,PT. Komet Infra Nusantara,55,144,3 KAKI,Greenfield,pemukiman
+138,150249,110.36144,-7.83686,Dusun Pelemsewu Rt 3,Panggungharjo,Sewon ,PT. Komet Infra Nusantara,36,35,3 KAKI,Greenfield,pemukiman
+139,250008,110.35642,-7.83089,Tegal Krapyak Rt 02 Dk Glugo,Panggungharjo,Sewon ,PT. Komet Infra Nusantara,36,35,3 KAKI,Greenfield,pemukiman
+140,150189,110.4808923,-7.8252713,Wanujoyo,Srimartani,Piyungan ,PT. Linggajati ,62,62,4 KAKI,Greenfield,pemukiman
+141,150194,110.4338133,-7.8854001,Dusun Ploso RT 04 / RW 10,Wonolelo,Pleret ,PT. Linggajati Al Manshurin,62,62,4 KAKI,Greenfield,pemukiman
+142,250226,110.444069,-7.908847,Banjarharjo II Rt. 04,Muntuk,Dlingo ,PT. Mitra Langgeng Perkasa,26,4,POLE,Greenfield,pemukiman
+143,250228,110.335656,-7.816883,kalipakis Rt. 007,Tirtonirmolo,Kasihan ,PT. Mitra Langgeng Perkasa,20,4,POLE,Greenfield,pemukiman
+144,250314,110.39388,-7.88022,Dusun Karangwuni RT. 07 DK. Blawong I,Trimulyo,Jetis,PT. Mitra Langgeng Perkasa,41,100,3 KAKI,Greenfield,pemukiman
+145,150243,110.34462,-7.82728,Padukan Lor RT. 05 Rw. 15,Tirtonirmolo,Kasihan ,PT. Prima Media Selaras,42,42,4 KAKI,Greenfield,pemukiman
+146,150257,110.40382,-7.80633,Karangsari,Banguntapan,Banguntapan,PT. Protelindo,30,81,3 KAKI,Greenfield,pemukiman
+147,150007,110.3739319,-7.9438411,Jl Jogja Panggang RT 01,Sriharjo,Imogiri ,PT. Protelindo,62,225,4 KAKI,Greenfield,pemukiman
+148,150015,110.350581,-7.8199161,Dongkelan Kauman RT 05,Tirtonirmolo,Kasihan ,PT. Protelindo,36,225,4 KAKI,Greenfield,pemukiman
+149,150018,110.3736772,-7.8560112,Dusun Semail RT 02,Bangunharjo,Sewon ,PT. Protelindo,42,225,4 KAKI,Greenfield,pemukiman
+150,150033,110.408181,-7.8796082,Trukan Segoro Yoso,Segoroyoso,Pleret ,PT. Protelindo,51,270,3 KAKI,Greenfield,pemukiman
+151,150042,110.4073926,-7.8631325,Trayeman,Pleret,Pleret ,PT. Protelindo,62,72,4 KAKI,Greenfield,pemukiman
+152,150045,110.4110794,-7.8297003,Tegal Cermai,Baturetno,Banguntapan,PT. Protelindo,35,225,3 KAKI,Greenfield,pemukiman
+153,150064,110.3486406,-7.8304528,Jogonalan Lor,Tirtonirmolo,Kasihan ,PT. Protelindo,36,225,4 KAKI,Greenfield,pemukiman
+154,150067,110.2819739,-7.8132467,Plawonan RT 01,Argomulyo,Sedayu ,PT. Protelindo,42,64,3 KAKI,Greenfield,pemukiman
+155,150079,110.2577587,-7.8124989,Kalakan Rt 03,Argorejo,Sedayu ,PT. Protelindo,52,225,4 KAKI,Greenfield,pemukiman
+156,150084,110.2760787,-7.7910423,Kemusuk Lor,Argomulyo,Sedayu ,PT. Protelindo,50,169,3 KAKI,Greenfield,pemukiman
+157,150085,110.2746405,-7.7936513,Kemusuk Kidul,Argomulyo,Sedayu ,PT. Protelindo,36,225,3 KAKI,Greenfield,pemukiman
+158,150089,110.3588376,-7.8471341,Jl Parangtritis Km 6 Pandes,Panggungharjo,Sewon ,PT. Protelindo,62,225,3 KAKI,Greenfield,pemukiman
+159,150092,"110,35171","-7,86131",Bangi RT 01,Timbulharjo,Sewon ,PT. Protelindo,52,40,3 KAKI,Greenfield,pemukiman
+160,150096,110.3500015,-7.8937752,Dusun Manding RT 03,Sabdodadi,Bantul,PT. Protelindo,52,225,4 KAKI,Greenfield,pemukiman
+161,150103,110.3397774,-7.9321643,Sulang Kidul RT 60,Patalan,Jetis ,PT. Protelindo,42,225,4 KAKI,Greenfield,pemukiman
+162,150107,110.3449622,-7.9562909,Bodowalu RT 07,Srihardono,Pundong ,PT. Protelindo,50,175,3 KAKI,Greenfield,pemukiman
+163,150109,110.3206903,-8.0125963,Grogol IX RT 03,Parangtritis,Kretek ,PT. Protelindo,72,225,4 KAKI,Greenfield,pemukiman
+164,150110,110.249685,-7.9376655,Dusun 01 Trimurti,Trimurti,Srandakan ,PT. Protelindo,42,225,3 KAKI,Greenfield,pemukiman
+165,150116,110.2641567,-7.966807,Pucangnom,Murtigading,Sanden ,PT. Protelindo,52,225,3 KAKI,Greenfield,pemukiman
+166,150121,110.2752798,-7.9882762,Dusun Baran,Srigading,Sanden ,PT. Protelindo,51,225,3 KAKI,Greenfield,pemukiman
+167,150124,110.2966602,-8.0079643,Depok RT 01,Parangtritis,Kretek ,PT. Protelindo,42,225,3 KAKI,Greenfield,pemukiman
+168,150127,110.3197822,-7.9790692,Busuran RT 04,Donotirto,Kretek ,PT. Protelindo,42,225,3 KAKI,Greenfield,pemukiman
+169,150133,110.3027647,-7.9564175,Plebengan RT 07 / RW 27,Sidomulyo,Bambanglipuro ,PT. Protelindo,72,225,4 KAKI,Greenfield,pemukiman
+170,150139,110.2885763,-7.8756915,Beji Kulon RT 01,Sendangsari,Pajangan ,PT. Protelindo,70,225,3 KAKI,Greenfield,pemukiman
+171,150140,110.2809689,-7.8798089,Beji Kulon,Sendangsari,Pajangan ,PT. Protelindo,72,72,4 KAKI,Greenfield,pemukiman
+172,150143,110.2900806,-7.9179252,Nglarang RT 02,Triharjo,Pandak ,PT. Protelindo,52,225,4 KAKI,Greenfield,pemukiman
+173,150148,110.315625,-7.9096783,Dusun Klanen RT 02 Dagaran,Palbapang,Bantul,PT. Protelindo,42,225,4 KAKI,Greenfield,pemukiman
+174,150160,110.3728077,-7.8290585,Jl Meranti Baru No 8 Randubelang,Bangunharjo,Sewon ,PT. Protelindo,36,225,3 KAKI,Greenfield,pemukiman
+175,150168,110.4072563,-7.7926112,Akakom Janti,Banguntapan,Banguntapan,PT. Protelindo,4,10,POLE,Rooftop,pemukiman
+176,150169,110.4072988,-7.7926417,Akakom Janti,Banguntapan,Banguntapan,PT. Protelindo,9,10,POLE,Rooftop,pemukiman
+177,150173,110.4118155,-7.8007378,Wonocatur RT 08 RW 25,Banguntapan,Banguntapan,PT. Protelindo,36,225,3 KAKI,Greenfield,pemukiman
+178,150176,110.4078471,-7.8122699,Ketandan RT 04 / RW 28,Banguntapan,Banguntapan,PT. Protelindo,42,225,4 KAKI,Greenfield,pemukiman
+179,150178,110.417253,-7.8180568,Dusun Mantup RT 13 / RW 08,Baturetno,Banguntapan,PT. Protelindo,36,225,3 KAKI,Greenfield,pemukiman
+180,150181,110.4205861,-7.8273913,Plakaran Lor RT 02,Baturetno,Banguntapan,PT. Protelindo,72,225,4 KAKI,Greenfield,pemukiman
+181,150191,110.4278557,-7.8557838,Banyakan 3 RT 01,Sitimulyo,Piyungan ,PT. Protelindo,51,225,4 KAKI,Greenfield,pemukiman
+182,150211,110.3302101,-7.8231325,Dusun Gonjen RT 02,Tamantirto,Kasihan ,PT. Protelindo,30,100,3 KAKI,Greenfield,pemukiman
+183,150213,110.3310706,-7.8241511,Dusun Gonjen RT 03,Tamantirto,Kasihan ,PT. Protelindo,36,225,3 KAKI,Greenfield,pemukiman
+184,150217,110.4444933,-7.9098016,Ds Muntuk RT 05,Muntuk,Dlingo ,PT. Protelindo,52,50,3 KAKI,Greenfield,pemukiman
+185,150221,110.360554,-7.825331,Mts Kh.Ali Maksum,Panggungharjo,Sewon ,PT. Protelindo,17,225,POLE,Rooftop,pemukiman
+186,150222,110.396427,-7.833685,Semoyan RT 01,Singosaren,Banguntapan,PT. Protelindo,42,225,4 KAKI,Greenfield,pemukiman
+187,150223,110.344566,-7.809761,Nitiprayan RT. 01,Ngestiharjo,Kasihan ,PT. Protelindo,42,225,4 KAKI,Greenfield,pemukiman
+188,150236,110.36447,-7.83075,Krapyak Wetan RT. 03,Panggungharjo,Sewon ,PT. Protelindo,35,225,POLE,Greenfield,pemukiman
+189,150237,110.2737,-7.92794,Kalisat,Triharjo,Pandak ,PT. Protelindo,45,64,4 KAKI,Greenfield,pemukiman
+190,150238,110.33374,-7.80878,Sidorejo,Ngestiharjo,Kasihan ,PT. Protelindo,30,225,3 KAKI,Greenfield,pemukiman
+191,150239,110.34199,-7.79977,Ngewotan,Ngestiharjo,Kasihan ,PT. Protelindo,30,35,3 KAKI,Greenfield,pemukiman
+192,150245,110.39186,-7.93656,Tegalrejo Rt 05,Girirejo,Imogiri ,PT. Protelindo,50,50,4 KAKI,Greenfield,pemukiman
+193,150252,110.369086,-7.847539,Dusun Ngoto Rt 06,Bangunharjo,Sewon ,PT. Protelindo,32,32,3 KAKI,Greenfield,pemukiman
+194,150253,110.36302,-7.92071,Dusun Canden Rt 003,Canden,Jetis ,PT. Protelindo,42,42,4 KAKI,Greenfield,pemukiman
+195,250006,110.36062,-7.82547,Dukuh Krapyak Kulon Rt. 10,Panggungharjo,Sewon ,PT. Protelindo,9,16,POLE,Rooftop,pemukiman
+196,250010,110.40886,-7.8385,Dusun Balong Lor Rt 04,Potorono,Banguntapan,PT. Protelindo,50,50,4 KAKI,Greenfield,pemukiman
+197,250018,110.40244,-7.79145,Jl Turangga Sorowajan Rt 04 Rw 09,Banguntapan,Banguntapan,PT. Protelindo,20,150,3 KAKI,Greenfield,pemukiman
+198,250019,110.34593,-7.84197,Glondong Rt 003,Tirtonirmolo,Kasihan ,PT. Protelindo,36,36,3 KAKI,Greenfield,pemukiman
+199,250020,110.40793,-7.82661,Modalan Rt 05/46,Banguntapan,Banguntapan,PT. Protelindo,32,32,3 KAKI,Greenfield,pemukiman
+200,250021,110.35856,-7.83071,Krapyak Kulon Rt 04,Panggungharjo,Sewon ,PT. Protelindo,32,32,3 KAKI,Greenfield,pemukiman
+201,250030,110.33962,-7.82418,Menayu Lor Rt 05,Tirtonirmolo,Kasihan ,PT. Protelindo,42,42,3 KAKI,Greenfield,pemukiman
+202,250032,110.41052,-7.79914,Jl. Janti Wonocatur no. 136 rt 10 Rw 25,Banguntapan,Banguntapan,Pt. Protelindo,30,30,3 KAKI,Greenfield,pemukiman
+203,250040,110.41666,-7.79898,Jl. Maguwo Rt. 15 Wonocatur,Banguntapan,Banguntapan,PT. Protelindo,20,100,4 KAKI,Rooftop,pemukiman
+204,250041,110.41398,-7.84033,Kranginan Rt 05,Potorono,Banguntapan,PT. Protelindo,40,150,3 KAKI,Greenfield,pemukiman
+205,250043,110.40215,-7.84068,Karang Rt 02,Singosaren,Banguntapan,PT. Protelindo,40,150,3 KAKI,Greenfield,pemukiman
+206,250044,110.32274,-7.8206,Tundan Rt 04,Tamantirto,Kasihan ,PT. Protelindo,40,150,3 KAKI,Greenfield,pemukiman
+207,250059,110.36887,-7.9158,Padukungan Bungas,Sumberagung,Jetis ,PT. Protelindo,40,150,3 KAKI,Greenfield,pemukiman
+208,250093,110.3283,-7.89127,Jl. Urip Sumoharjo,Bantul,Bantul,PT. Protelindo,25,150,4 KAKI,Rooftop,pemukiman
+209,250201,110.26503,-7.94948,Tunjungan Rt. 08,Caturharjo,Pandak ,PT. Protelindo,40,225,3 KAKI,Greenfield,pemukiman
+210,250265,110.4634,-7.83399,Payak Tengah Rt. 04,Srimulyo,Piyungan ,PT. Protelindo,45,100,3 KAKI,Greenfield,pemukiman
+211,250285,110.4005,-7.87069,Keputren Rt. 01,Pleret,Pleret ,PT. Protelindo,30,80,POLE,Greenfield,persawahan
+212,250288,110.27234,-7.80862,Karanglo AM. IX RT. 03,Argomulyo,Sedayu ,PT. Protelindo,42,100,3 KAKI,Greenfield,pemukiman
+213,250289,110.40981,-7.78751,Karangjambe RT. 01,Banguntapan,Banguntapan,PT. Protelindo,16.5,16,POLE,Greenfield,pemukiman
+214,150157,110.333094,-7.8864403,Nyangkringan Rt 02 Jl Ahmad Yani No. 22,Bantul,Bantul,PT. Radio Persatuan,72,72,4 KAKI,Greenfield,pemukiman
+215,150021,110.4676903,-7.9305314,Tanjan,Temuwuh,Dlingo ,PT. Solusi Menara Indonesia,62,225,4 KAKI,Greenfield,pemukiman
+216,150031,110.3848195,-7.8946009,Bendogorok,Trimulyo,Jetis ,PT. Solusi Menara Indonesia,52,52,4 KAKI,Greenfield,pemukiman
+217,150034,110.4111385,-7.8792492,Ds Jembangan,Segoroyoso,Pleret ,PT. Solusi Menara Indonesia,62,144,4 KAKI,Greenfield,pemukiman
+218,150041,110.3907139,-7.8528726,Botokenceng,Wirokerten,Banguntapan,PT. Solusi Menara Indonesia,52,144,4 KAKI,Greenfield,pemukiman
+219,150050,110.3709562,-7.8630683,Klegen,Bangunharjo,Sewon ,PT. Solusi Menara Indonesia,72,55,4 KAKI,Greenfield,pemukiman
+220,150106,110.344674,-7.9559592,Bodowalu RT 07,Srihardono,Pundong ,PT. Solusi Menara Indonesia,36,225,4 KAKI,Greenfield,pemukiman
+221,150119,110.2711747,-7.9690385,Dusun Kurahan II,Murtigading,Sanden ,PT. Solusi Menara Indonesia,72,225,4 KAKI,Greenfield,pemukiman
+222,150135,110.2968342,-7.9512669,Tempel RT 03,Sidomulyo,Bambanglipuro ,PT. Solusi Menara Indonesia,62,144,4 KAKI,Greenfield,pemukiman
+223,150137,110.2708494,-7.8838085,Kamijoro RT 02,Sendangsari,Pajangan ,PT. Solusi Menara Indonesia,72,225,4 KAKI,Greenfield,pemukiman
+224,150162,110.3809286,-7.8291328,Kragilan RT 04,Tamanan,Banguntapan,PT. Solusi Menara Indonesia,42,144,4 KAKI,Greenfield,pemukiman
+225,150204,110.3007247,-7.8587478,Pringgading RT 04,Guwosari,Pajangan ,PT. Solusi Menara Indonesia,72,144,4 KAKI,Greenfield,pemukiman
+226,150210,110.4521719,-7.8823988,Pencit Rejo RT 02,Terong,Dlingo ,PT. Solusi Menara Indonesia,62,52,4 KAKI,Greenfield,pemukiman
+227,150227,110.34016,-7.79643,"Dsn. Ngewotan RT.07/24,",Ngestiharjo,Kasihan ,PT. Solusi Menara Indonesia,42,144,4 KAKI,Greenfield,pemukiman
+228,150012,110.4292336,-7.9327262,Pedukuhan Sukorame Rt. 17,Mangunan,Dlingo ,PT. Solusi Tunas Pratama,51,195,4 KAKI,Greenfield,pemukiman
+229,150029,110.4153808,-7.9020107,Karang Asem Rt. 03,Wukirsari,Imogiri ,PT. Solusi Tunas Pratama,51,156,3 KAKI,Greenfield,pemukiman
+230,150044/250022,110.41103,-7.83074,Tegal Cermai,Baturetno,Banguntapan,PT. Solusi Tunas Pratama,42,35,4 KAKI,Greenfield,pemukiman
+231,150073,110.3082143,-7.8346495,Wonotawang Dk. 11 Ngentak Rt. 09,Bangunjiwo,Kasihan ,PT. Solusi Tunas Pratama,51,251,3 KAKI,Greenfield,pemukiman
+232,150101,110.3499783,-7.9230967,Kering Gaduh Lama,Patalan,Jetis ,PT. Solusi Tunas Pratama,51,60,3 KAKI,Greenfield,pemukiman
+233,150113,110.235446,-7.9769714,Koripan RT 01,Poncosari,Srandakan ,PT. Solusi Tunas Pratama,51,180,3 KAKI,Greenfield,pemukiman
+234,150118,110.2656546,-7.9686272,Sanden RT 02,Murtigading,Sanden ,PT. Solusi Tunas Pratama,50,242,3 KAKI,Greenfield,pemukiman
+235,150125/250029,110.2972742,-8.0077509,Depok Rt 01,Parangtritis,Kretek ,PT. Solusi Tunas Pratama,72,72,4 KAKI,Greenfield,pemukiman
+236,150129,110.318122,-7.9736116,"Jl Parangtritis Km 21, Sruwuh",Donotirto,Kretek ,PT. Solusi Tunas Pratama,50,225,3 KAKI,Greenfield,pemukiman
+237,150145,110.2924823,-7.9392441,Depok Rt. 03,Gilangharjo,Pandak ,PT. Solusi Tunas Pratama,42,144,3 KAKI,Greenfield,pemukiman
+238,150146,110.3230672,-7.9293908,Plumbungan RT 02,Sumbermulyo,Bambanglipuro ,PT. Solusi Tunas Pratama,51,225,3 KAKI,Greenfield,pemukiman
+239,150161,110.3791011,-7.834074,Dusun Sokowaten RT 04,Tamanan,Banguntapan,PT. Solusi Tunas Pratama,30,30,3 KAKI,Greenfield,pemukiman
+240,150165,110.4013595,-7.7920499,Sorowajan no. 71 Rt. 04,Banguntapan,Banguntapan,PT. Solusi Tunas Pratama,36,100,3 KAKI,Greenfield,pemukiman
+241,150244,110.33527,-7.80821,Dusun Sonopakis Kidul Rt02 Rw 28,Ngestiharjo,Kasihan ,PT. Solusi Tunas Pratama,30,30,3 KAKI,Greenfield,pemukiman
+242,150258,110.25784,-7.92626,Dukuh Celan X,Trimurti,Srandakan ,PT. Solusi Tunas Pratama,51,150,4 KAKI,Greenfield,pemukiman
+243,150256,110.35423,-7.83004,Jl. Raya Bantul RT. 10/50 Dongkelan,Panggungharjo,Sewon ,PT. Solusi Tunas Pratama,45,100,3 KAKI,Greenfield,pemukiman
+244,250206,110.36079,-784555,Jl. Pandes Rt. 03 / Jl. Parangtritis Km 5.5,Panggungharjo,Sewon ,PT. Solusi Tunas Pratama,42,80,3 KAKI,Greenfield,pemukiman
+245,150008,110.4116571,-7.9667619,Ds. Nawungan II Rt 01,Selopamioro,Imogiri ,PT. Solusindo Kreasi Pratama,62,62,4 KAKI,Greenfield,pemukiman
+246,150055,110.337501,-7.8125205,Sono Pakis Kidul,Ngestiharjo,Kasihan ,PT. Solusindo Kreasi Pratama,42,42,4 KAKI,Greenfield,pemukiman
+247,150075,110.2457544,-7.8531539,Dukuh Sungapan,Argodadi,Sedayu ,PT. Solusindo Kreasi Pratama,52,52,4 KAKI,Greenfield,pemukiman
+248,150112,110.2302724,-7.9686394,Sambeng 01 Rt 03,Poncosari,Srandakan ,PT. Solusindo Kreasi Pratama,72,72,4 KAKI,Greenfield,pemukiman
+249,150208,110.3725665,-7.8380275,Tanjung RT 06,Bangunharjo,Sewon ,PT. Solusindo Kreasi Pratama,62,62,4 KAKI,Greenfield,pemukiman
+250,150233,110.40806,-7.81778,Jl. Garuda Np. 30 RT 10/04,Jaranan,Banguntapan ,PT. Solusindo Kreasi Pratama,52,165,4 KAKI,Greenfield,pemukiman
+251,250053,110.29636,-7.8942,Ngeblak Rt 06,Wijirejo,Pandak ,PT. Solusindo Kreasi Pratama,72,72,4 KAKI,Greenfield,pemukiman
+252,250054,110.32732,-7.80679,Geblagan Rt 01,Tamantirto,Kasihan ,PT. Solusindo Kreasi Pratama,42,42,4 KAKI,Greenfield,pemukiman
+253,250055,110.45695,-7.83066,Bintaran Wetan Rt 06,Srimulyo,Piyungan ,PT. Solusindo Kreasi Pratama,42,150,4 KAKI,Greenfield,pemukiman
+254,150009,110.4116561,-7.9710777,Jl Pibal ds nawungan Rt 01,Selopamioro,Imogiri ,PT. Telkomsel,72,225,4 KAKI,Greenfield,pemukiman
+255,150011,110.4294843,-7.9313582,Komplek Pasar Pencil,Mangunan,Dlingo ,PT. Telkomsel,72,225,4 KAKI,Greenfield,pemukiman
+256,150013,110.3477661,-7.8180102,Tegal Senggotan,Tirtonirmolo,Kasihan ,PT. Telkomsel,36,174,4 KAKI,Greenfield,pemukiman
+257,150016,110.3592587,-7.8322484,Glugo,Panggungharjo,Sewon ,PT. Telkomsel,62,100,4 KAKI,Greenfield,pemukiman
+258,150019,110.3742256,-7.8803199,Ngentak /Klayu,Timbulharjo,Sewon ,PT. Telkomsel,36,100,4 KAKI,Greenfield,pemukiman
+259,150022,110.4676078,-7.9292263,Tanjan,Temuwuh,Dlingo ,PT. Telkomsel,62,225,4 KAKI,Greenfield,pemukiman
+260,150027,110.4502481,-7.8890458,Kebokuning,Terong,Dlingo ,PT. Telkomsel,52,252,4 KAKI,Greenfield,pemukiman
+261,150028,110.419705,-7.9013807,Karangtalun Rt 02 Rw 03,Wukirsari,Imogiri ,PT. Telkomsel,62,225,4 KAKI,Greenfield,pemukiman
+262,150032,110.3962901,-7.8943295,Kembang Songo,Trimulyo,Jetis ,PT. Telkomsel,62,62,4 KAKI,Greenfield,pemukiman
+263,150035,110.4061654,-7.8678054,Kangotan,Pleret,Pleret ,PT. Telkomsel,62,72,4 KAKI,Greenfield,pemukiman
+264,150040,110.3879271,-7.8627032,Ds PandesRt 00,Wonokromo,Pleret ,PT. Telkomsel,42,225,4 KAKI,Greenfield,pemukiman
+265,150047,110.4068725,-7.8266079,"Jl Garuda, GG Sadewa rt 02/45 Modalan",Banguntapan,Banguntapan,PT. Telkomsel,52,300,4 KAKI,Greenfield,pemukiman
+266,150049,110.3909304,-7.8434669,Grojogan Gt 04 Gw02,Wirokerten,Banguntapan,PT. Telkomsel,36,42,4 KAKI,Greenfield,pemukiman
+267,150057,110.3477693,-7.8180706,Jl Bugisan Selatan No 07,Tirtonirmolo,Kasihan ,PT. Telkomsel,36,42,4 KAKI,Greenfield,pemukiman
+268,150059,110.3408449,-7.8295287,Padokan kidul RT 03,Tirtonirmolo,Kasihan ,PT. Telkomsel,42,100,4 KAKI,Greenfield,pemukiman
+269,150060,110.3290038,-7.8207614,Brajan RT 01 / RW 14,Tamantirto,Kasihan ,PT. Telkomsel,62,114,4 KAKI,Greenfield,pemukiman
+270,150069,110.3049909,-7.8422992,Kalirandu rt 08 rw 25,Bangunjiwo,Kasihan ,PT. Telkomsel,62,252,4 KAKI,Greenfield,pemukiman
+271,150070,110.3323398,-7.8422014,Goren RT 01,Bangunjiwo,Kasihan ,PT. Telkomsel,52,225,4 KAKI,Greenfield,pemukiman
+272,150081,110.2595673,-7.8133706,Kalakan RT 04,Argorejo,Sedayu ,PT. Telkomsel,52,225,4 KAKI,Greenfield,pemukiman
+273,150083,110.2779941,-7.7905624,Jl Raya Argo Mulyo Kemusuk Lor,Argomulyo,Sedayu ,PT. Telkomsel,36,100,4 KAKI,Greenfield,pemukiman
+274,150099,110.3527426,-7.8913334,Jl Parangtritis Km 11,Sabdodadi,Bantul,PT. Telkomsel,52,100,4 KAKI,Greenfield,pemukiman
+275,150102,110.349284,-7.9297002,Dusun Bobok,Patalan,Jetis ,PT. Telkomsel,52,292,4 KAKI,Greenfield,pemukiman
+276,150105,110.3420892,-7.9555066,Dusun Piring Rt 06 Rw 19,Srihardono,Pundong ,PT. Telkomsel,36,300,4 KAKI,Greenfield,pemukiman
+277,150111,110.234797,-7.9629188,Sambeng 01 RT 03,Poncosari,Srandakan ,PT. Telkomsel,72,225,4 KAKI,Greenfield,pemukiman
+278,150117,110.2646728,-7.9688842,Ds Sanden Rt 01/29,Murtigading,Sanden ,PT. Telkomsel,62,225,4 KAKI,Greenfield,pemukiman
+279,150126,110.2982488,-8.0062525,Depok RT 01,Parangtritis,Kretek ,PT. Telkomsel,72,602,4 KAKI,Greenfield,pemukiman
+280,150130,110.318396,-7.9720152,Jl Parangtritis Km 21 Sruwuh,Donotirto,Kretek ,PT. Telkomsel,72,225,4 KAKI,Greenfield,pemukiman
+281,150134,110.287671,-7.9666411,Dusun Karen RT 01,Tirtomulyo,Kretek ,PT. Telkomsel,72,225,4 KAKI,Greenfield,pemukiman
+282,150136,110.3064949,-7.9342284,Tangkilan RT 04,Sumbermulyo,Bambanglipuro ,PT. Telkomsel,72,225,4 KAKI,Greenfield,pemukiman
+283,150138,110.2718772,-7.8857951,Kamijoro RT 02,Sendangsari,Pajangan ,PT. Telkomsel,72,225,4 KAKI,Greenfield,pemukiman
+284,150144,110.2753304,-7.9292423,Kalisat RT 06 Gunturan,Triharjo,Pandak ,PT. Telkomsel,72,252,4 KAKI,Greenfield,pemukiman
+285,150151,110.3114797,-7.9049429,Jodog Legi RT 04,Gilangharjo,Pandak ,PT. Telkomsel,72,225,4 KAKI,Greenfield,pemukiman
+286,150164/250009,110.3998685,-7.7954825,Sokowetan RT 04 RW 13,Banguntapan,Banguntapan,PT. Telkomsel,35,144,3 KAKI,Greenfield,pemukiman
+287,150171,110.4073134,-7.7925698,Akakom Janti,Banguntapan,Banguntapan,PT. Telkomsel,4,4,POLE,Rooftop,pemukiman
+288,150179,110.4171192,-7.8188845,Gg Sri Kolaka Rt 11 Rw 8,Baturetno,Banguntapan,PT. Telkomsel,42,147,4 KAKI,Greenfield,pemukiman
+289,150187,110.4721975,-7.8352509,Ds pandayan Rt 05 Rw 29,Srimulyo,Piyungan ,PT. Telkomsel,72,216,4 KAKI,Greenfield,pemukiman
+290,150190,110.4299449,-7.840601,Cepok Jajar,Sitimulyo,Piyungan ,PT. Telkomsel,42,100,3 KAKI,Greenfield,pemukiman
+291,150195,110.3610593,-7.8713682,Dukuh Mriyan Rt 06,Timbulharjo,Sewon ,PT. Telkomsel,62,190,3 KAKI,Greenfield,pemukiman
+292,150199,110.3378847,-7.8705266,Bakalan / Dukuh Blunyahan,Pendowoharjo,Sewon ,PT. Telkomsel,72,150,4 KAKI,Greenfield,pemukiman
+293,150201,110.3141735,-7.8775506,Iroyudan RT 01 / RW 06,Guwosari,Pajangan ,PT. Telkomsel,72,100,4 KAKI,Greenfield,pemukiman
+294,150203,110.3007031,-7.8589695,Pringgading RT 04,Guwosari,Pajangan ,PT. Telkomsel,72,225,4 KAKI,Greenfield,pemukiman
+295,150209,110.250923,-7.9378245,Srandakan RT 04,Trimurti,Srandakan ,PT. Telkomsel,72,225,4 KAKI,Greenfield,pemukiman
+296,150214,110.273472,-7.831838,Dusun Metes RT 46,Argorejo,Sedayu ,PT. Telkomsel,72,100,4 KAKI,Greenfield,pemukiman
+297,150220,110.3478501,-7.7867188,Ds.Sumberan RT11 RW05 Kel.Ngestiharjo Kec.Kasihan,Ngestiharjo,Kasihan ,PT. Telkomsel,42,100,4 KAKI,Greenfield,pemukiman
+298,250045,110.39915,-7.78871,Jl. Sorowajan Baru Rt 15/12,Banguntapan,Banguntapan,PT. Telkomsel,30,150,4 KAKI,Greenfield,pemukiman
+299,250207,110.3559,-7.85637,Jl. Parangtritis km. 7 (selatan Kantor Pos Sewon),Panggungharjo,Sewon ,PT. Tower Bersama,18,2,Monopole,Greenfield,pemukiman
+300,150066,110.3502987,-7.8361897,Kweni,Panggungharjo,Sewon ,PT. Tower Bersama,52,148,4 KAKI,Greenfield,pemukiman
+301,150120,110.2854965,-7.9679894,Dusun Ceme Dukuh II,Srigading,Sanden ,PT. Tower Bersama,42,42,4 KAKI,Greenfield,pemukiman
+302,150158,110.3338692,-7.8833145,Jl Ahmad Yani Melikan Kidul,Bantul,Bantul,PT. Tower Bersama,72,72,4 KAKI,Greenfield,pemukiman
+303,150218,110.4369914,-7.9189077,Dk Karangasem,Muntuk,Dlingo ,PT. Tower Bersama,36,40,4 KAKI,Greenfield,pemukiman
+304,150235,110.39967,-7.80197,Perum Gedong Kuning RT. 32/18,Banguntapan,Banguntapan,PT. Tower Bersama,42,225,4 KAKI,Greenfield,pemukiman
+305,150254,110.39919,-7.91121,Nogosari 1,Wukirsari,Imogiri ,PT. Tower Bersama,62,62,4 KAKI,Greenfield,pemukiman
+306,250052,110.24834,-7.98069,Wonorejo II Rt 04,Gadingsari,Sanden ,PT. Tower Bersama,62,150,4 KAKI,Greenfield,pemukiman
+307,250121,110.33057,-7.82857,Kembaran Rt. 07,Tamantirto,Kasihan ,PT. Tower Bersama,32,150,4 KAKI,Greenfield,pemukiman
+308,250122,110.32648,-7.81418,Ngrukeman Rt. 03,Tamantirto,Kasihan ,PT. Tower Bersama,42,150,4 KAKI,Greenfield,pemukiman
+309,250148,110.32448,-7.80987,Jl. Ringroad Selatan,Tamantirto,Kasihan ,PT. Tower Bersama,18,2,Monopole,Greenfield,pemukiman
+310,250159,110.3688,-7.83592,Jl. Ringroad Selatan,Bangunharjo,Sewon ,PT. Tower Bersama,18,2,Monopole,Greenfield,pemukiman
+311,250160,110.31683,-7.81699,Mranggen Rt. 03,Tamantirto,Kasihan ,PT. Tower Bersama,62,150,4 KAKI,Greenfield,pemukiman
+312,250196,110.35175,-7.86962,Jl. Parangtritis km 8,Timbulharjo,Sewon ,PT. Tower Bersama,18,2,Monopole,Greenfield,pemukiman
+313,250205,110.35107,-7.843175,Dkh. Sawit Rt. 01,Panggungharjo,Sewon ,PT. Tower Bersama,42,225,4 KAKI,Greenfield,pemukiman
+314,250208,110.34674,-7.81403,Dsn. Jomegatan Rt. 08,Ngestiharjo,Kasihan ,PT. Tower Bersama,32,150,4 KAKI,Greenfield,pemukiman
+315,250209,110.42041,-7.81064,"Jl. Garuda no. 58, dsn. Sampangan",Baturetno,Banguntapan,PT. Tower Bersama,32,225,4 KAKI,Greenfield,pemukiman
+316,250210,110.41723,-7.83282,Dsn. Condrowangsang Rt. 04,Potorono,Banguntapan,PT. Tower Bersama,42,225,4 KAKI,Greenfield,pemukiman
+317,250211,110.35763,-7.82828,Jl. Ringroad Selatan,Panggungharjo,Sewon ,PT. Tower Bersama,18,2,Monopole,Greenfield,pemukiman
+318,250254,110.3393,-7.81737,Bekelan Rt. 03 Dukuh II Kersan,Tirtonirmolo,Kasihan ,PT. Tower Bersama,32,100,4 KAKI,Greenfield,pemukiman
+319,250256,110.3232,-7.81962,Tundan Rt. 04,Tamantirto,Kasihan ,PT. Tower Bersama,32,100,4 KAKI,Greenfield,pemukiman
+320,250257,110.37171,-7.91278,Barongan Rt. 01,Sumberagung,Jetis ,PT. Tower Bersama,62,120,4 KAKI,Greenfield,persawahan
+321,250279,110.242139,-7.809194,Dusun Botokan RT. 19,Argosari,Sedayu ,PT. Tower Bersama,52,100,4 KAKI,Greenfield,pemukiman
+322,250298,110.312106,-7.942361,Bregan RT. 04,Mulyodadi,Bambanglipuro ,PT. Tower Bersama,52,100,4 KAKI,Greenfield,pemukiman
+323,250324,110.32109,-7.80585,Gang Kemuning RT. 06,Tamantirto,Kasihan ,PT. Tower Bersama,42,100,3 KAKI,Greenfield,pemukiman
+324,250300,110.28266,-7.79979,Pedukuhan Watu RT. 04,Argomulyo,Sedayu ,PT. Tower Bersama ,32,100,4 KAKI,Greenfield,pemukiman
+325,150078,110.2490055,-7.8423687,Dusun Selogedang,Argodadi,Sedayu ,PT. Towerindo Konvergensi,52,225,4 KAKI,Greenfield,pemukiman
+326,150104,110.3286474,-7.9482644,Jamprit RT 01,Panjangrejo,Pundong ,PT. Towerindo Konvergensi,36,144,4 KAKI,Greenfield,pemukiman
+327,150155,110.3415118,-7.8990489,Nogosari RT 07,Trirenggo,Bantul,PT. Towerindo Konvergensi,62,144,4 KAKI,Greenfield,pemukiman
+328,150196,110.3617619,-7.8723575,Cangkringmalang/Dk Mriyan Rt 06,Timbulharjo,Sewon ,PT. Towerindo Konvergensi,62,144,4 KAKI,Greenfield,pemukiman
+329,250062,110.33102,-7.81233,Dusun Tempuran RT. 09,Tamantirto,Kasihan ,PT. Triview Geospatial Mandiri,42,120,4 KAKI,Greenfield,pemukiman
+330,250240,110.32438,-7.86433,"Dusun Tegaldowo Rt. 02, Dk. Grujukan",Bantul,Bantul,PT. Triview Geospatial Mandiri,42,100,4 KAKI,Greenfield,pemukiman
+331,150003,110.3812198,-7.92221,Bandungan Rt 03/05,Karangtalun,Imogiri ,PT. XL Axiata,70,225,4 KAKI,Greenfield,pemukiman
+332,150014,110.3507979,-7.8190868,Dongkelan Kauman Rt 05,Tirtonirmolo,Kasihan ,PT. XL Axiata,42,225,4 KAKI,Greenfield,pemukiman
+333,150020,110.3737195,-7.895345,Jl Raya Imogiri Barat Dk Kertan,Sumberagung,Jetis ,PT. XL Axiata,50,195,3 KAKI,Greenfield,pemukiman
+334,150023,110.4683748,-7.9346329,Kuripan 1 RT 04,Dlingo,Dlingo ,PT. XL Axiata,71,225,3 KAKI,Greenfield,pemukiman
+335,150024,110.4516297,-7.8851737,Kebokuning RT 04,Terong,Dlingo ,PT. XL Axiata,36,182,3 KAKI,Greenfield,pemukiman
+336,150030,110.3835845,-7.895792,Jl. Imogiri Timur Ds. Karang Duwet Rt. 10,Trimulyo,Jetis ,PT. XL Axiata,52,42,4 KAKI,Greenfield,pemukiman
+337,150039,110.3894764,-7.8704522,Dsn Brajan,Wonokromo,Pleret ,PT. XL Axiata,70,400,3 KAKI,Greenfield,pemukiman
+338,150046,110.4098943,-7.8282242,Karangturi Rw. 14,Banguntapan,Banguntapan,PT. XL Axiata,52,52,4 KAKI,Greenfield,pemukiman
+339,150058,110.344665,-7.8271042,Padokan Lor,Tirtonirmolo,Kasihan ,PT. XL Axiata,51,144,3 KAKI,Greenfield,pemukiman
+340,150063,110.3490145,-7.8293389,Jogonalan Lor,Tirtonirmolo,Kasihan ,PT. XL Axiata,42,36,4 KAKI,Greenfield,pemukiman
+341,150071,110.3345034,-7.8430372,Goren RT 02,Bangunjiwo,Kasihan ,PT. XL Axiata,50,256,3 KAKI,Greenfield,pemukiman
+342,150080,110.2579946,-7.8141341,Jl Raya Wates Km 12 Semampir,Argorejo,Sedayu ,PT. XL Axiata,70,400,3 KAKI,Greenfield,pemukiman
+343,150090,110.3599114,-7.8491581,Jetis Dk Prancak Glondong,Panggungharjo,Sewon ,PT. XL Axiata,50,225,3 KAKI,Greenfield,pemukiman
+344,150093,110.3506165,-7.8718286,Gatak Rt 01,Timbulharjo,Sewon ,PT. XL Axiata,52,35,4 KAKI,Greenfield,pemukiman
+345,150095,110.3460812,-7.8865414,Klembon RT 07,Trirenggo,Bantul,PT. XL Axiata,70,400,3 KAKI,Greenfield,pemukiman
+346,150150,110.3123905,-7.906422,Dusun Karang Asem RT 01 / RW 07,Gilangharjo,Pandak ,PT. XL Axiata,70,400,3 KAKI,Greenfield,pemukiman
+347,150172,110.4109438,-7.80096,Wonocatur Rt 08 Rw 25,Banguntapan,Banguntapan,PT. XL Axiata,32,144,POLE,Greenfield,pemukiman
+348,150177,110.40712,-7.8129, Sunten Dukuh Jomblangan Rt. 08/ Rw. 32,Banguntapan,Banguntapan,PT. XL Axiata,42,42,4 KAKI,Greenfield,pemukiman
+349,150197,110.3387634,-7.867497,Dusun Cepit RT 12 Dk Sawahan,Pendowoharjo,Sewon ,PT. XL Axiata,51,165,3 KAKI,Greenfield,pemukiman
+350,150212,110.3199371,-7.8125807,Ngebel RT 04,Tamantirto,Kasihan ,PT. XL Axiata,51,42,3 KAKI,Greenfield,pemukiman
+351,150216,110.3275379,-7.8865551,Jl. Wolter Monginsidi No 1,Bantul,Bantul,PT. XL Axiata,50,28,4 KAKI,Greenfield,pemukiman
+352,150225,110.475,-7.85194,Ds. Pandeyan Rt 04 Rw 55,Srimulyo,Piyungan ,PT. XL Axiata,30,100,3 KAKI,Greenfield,pemukiman
